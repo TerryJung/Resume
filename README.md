@@ -1,5 +1,3 @@
-# Resume
-
 # 정용현 (Terry Jung)
 ---
 
